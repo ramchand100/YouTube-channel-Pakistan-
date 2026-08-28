@@ -8,19 +8,38 @@
 - **Approval date:** 2026-08-28
 - **Source:** surfaced via `pakistan-topic-angles` Mode A topic-ideas list
   (see `topic-ideas/log.md` in that skill's directory, Session 1 batch 2)
+- **Revised:** 2026-08-28, after `pakistan-research-brief` (see
+  `research/briefs/auto_policy_2026-31_brief.md`) — the central question and
+  thesis below were updated to match what research actually found. The
+  original version assumed a finalized policy with a risky built-in
+  timeline; research found there is currently no policy in force at all,
+  and the resulting vacuum has already cost consumers real money. The
+  original central question is preserved below as "Original central
+  question" since it's still the mechanism the episode needs to explain —
+  it's no longer the opening hook.
 
 ## Central question
 
+Why has Pakistan gone eight weeks without an auto policy — shelving one
+draft in early August after industry revolt, then convening a new
+committee — while consumers already absorbed a Rs 1.3+ million price jump
+on hybrid cars as a direct, dated consequence of the gap?
+
+**Original central question (now Part 2's mechanism, not the hook):**
 Tariffs are set to fall toward a 6% weighted average by FY2030 and
 local-parts protection is capped at roughly five years — does the policy's
 own timeline undercut the localization goal it claims to serve?
 
 ## Tentative thesis
 
-A genuine attempt to break a decades-old protected, expensive auto sector,
-but the built-in tariff phase-down may expose local manufacturers before
-they've had time to actually localize — and Pakistan has run this exact
-experiment before, under the 2016-21 and 2021-26 auto policies.
+The auto policy isn't stuck because the tradeoff is unusually hard — it's
+stuck because the same fight (how fast to expose protected local
+manufacturers to real competition) has repeated across three policy cycles
+without resolution. This time, the cost of not deciding is landing on
+consumers in real time, not staying abstract — and whatever replacement
+policy eventually emerges will carry the same built-in tension the last two
+did: a tariff phase-down that may outrun local manufacturers' ability to
+actually localize.
 
 ## Main entities and institutions
 
@@ -70,11 +89,13 @@ separate strand.
 
 ## Main weakness / research risk
 
-The policy was reported as a July 2026 draft. Research must verify whether
-it was actually finalized/gazetted on schedule or modified before formal
-notification — Pakistani policy drafts frequently shift between
-announcement and final text, and citing draft-stage provisions that later
-changed would undermine the whole episode.
+**Resolved by research, updated:** the policy was not finalized/gazetted —
+it was shelved August 3 and a revised draft only reached "in-principle"
+committee approval August 13, still short of the federal cabinet. This is
+now load-bearing to the episode rather than a risk to route around.
+**New risk:** this situation was moving fast as of mid-August; confirm
+whether the revised draft has since reached cabinet before recording, since
+the ending needs the most current status available.
 
 ## Story logic
 
@@ -83,20 +104,25 @@ Regulatory / incentive conflict, with a historical comparison to the
 
 ## Proposed structure (5 parts)
 
-1. **The Anomaly** — open on the July 2026 policy unveiling and the stark
-   fact that decades of "infant industry" protection haven't produced
-   globally competitive car prices.
-2. **The Mechanism** — how this specific policy works: the tariff schedule,
-   the five-year local-parts protection window, used-car import
-   liberalization, EV incentives.
+1. **The Anomaly** — open on the concrete, dated consequence: hybrid car
+   prices jumping Rs 1.3-1.4 million overnight in July 2026, and the fact
+   that this happened because a policy expired with nothing ready to
+   replace it — not because of a tax anyone debated or voted on.
+2. **The Mechanism** — how Pakistan's auto policy actually works, why this
+   one took so long: the tariff-vs-localization tradeoff (the original
+   central question), the Industries-vs-Commerce dispute, the IMF's
+   rejected carve-out, and the draft that got shelled in August over its
+   EV tilt.
 3. **The History** — what happened to prices and local content under the
-   two previous auto policies; has this exact promise been made and broken
-   before?
+   two previous auto policies (2016-21, 2021-26); has this exact fight
+   happened and stalled before?
 4. **The Stakes** — winners and losers: OEMs, parts manufacturers,
-   consumers, used-car importers.
-5. **The Verdict** — whether the timeline realistically lets local
-   manufacturers become competitive before protection ends, and what would
-   actually need to be true for this policy to break the cycle.
+   consumers, used-car importers — and PAAPAM's 34%-cost-disadvantage claim,
+   attributed and weighed against the counterargument.
+5. **The Verdict** — the current status (confirm before recording), whether
+   the eventual policy's timeline realistically lets local manufacturers
+   compete before protection ends, and what it says about Pakistani
+   industrial policy that this fight repeats every five years.
 
 ## Main counterargument
 
